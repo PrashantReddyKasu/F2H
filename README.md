@@ -68,7 +68,7 @@ F2H/
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/f2h.git
+   git clone https://github.com/PrashantReddyKasu/F2H
    cd f2h
    \`\`\`
 
