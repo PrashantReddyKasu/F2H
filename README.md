@@ -203,5 +203,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Thanks to all contributors who have helped with the development of this application.
+- Thanks to all contributors (Srikanth, Sunil Jammana, Lokesh, Abhishek, Lava and viswas) who have helped with the development of this application.
 - Special thanks to the farming community for their input and feedback
